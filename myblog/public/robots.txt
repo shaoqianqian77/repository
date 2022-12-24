@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://anpu-zola-theme.netlify.app/sitemap.xml
