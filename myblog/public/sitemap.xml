@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://anpu-zola-theme.netlify.app/</loc>
+        <loc>https://lynntypo.netlify.app/</loc>
     </url>
     <url>
-        <loc>https://anpu-zola-theme.netlify.app/hallo-worlk/</loc>
-        <lastmod>2022-11-21</lastmod>
+        <loc>https://lynntypo.netlify.app/hallo-worlk/</loc>
+        <lastmod>2022-12-24</lastmod>
     </url>
     <url>
-        <loc>https://anpu-zola-theme.netlify.app/page/1/</loc>
+        <loc>https://lynntypo.netlify.app/page/1/</loc>
     </url>
     <url>
-        <loc>https://anpu-zola-theme.netlify.app/tags/</loc>
+        <loc>https://lynntypo.netlify.app/tags/</loc>
     </url>
     <url>
-        <loc>https://anpu-zola-theme.netlify.app/tags/music/</loc>
+        <loc>https://lynntypo.netlify.app/tags/cao-gao/</loc>
     </url>
     <url>
-        <loc>https://anpu-zola-theme.netlify.app/tags/xasxa/</loc>
-    </url>
-    <url>
-        <loc>https://anpu-zola-theme.netlify.app/xiao-li/</loc>
-        <lastmod>2022-12-11</lastmod>
+        <loc>https://lynntypo.netlify.app/tags/changelog/</loc>
     </url>
 </urlset>
