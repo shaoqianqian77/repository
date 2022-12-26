@@ -22,5 +22,6 @@ taxonomies = [
 [extra]
 anpu_date_format="%e %B %Y"
 anpu_menu_links = [
-    { url = "$BASE_URL/tags/", name = "#" },
+    { url = "$BASE_URL/tags/", name = "Tags" },
+    { url = "$BASE_URL/tags/memory", name = "Memory" },
 ]
