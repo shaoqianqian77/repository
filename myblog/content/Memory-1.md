@@ -1,7 +1,10 @@
 +++
-title = "I'm 87yeas life Memory（English）"
+title = "英语学习游戏：一位八十七岁老人的回忆"
 date = 2022-12-26
 
 [taxonomies]
-tags = ["English","Memory"]
+tags = ["Memory","English"]
 +++ 
+
+我今年八十七岁了，因为一次脑部手术我失去了所有记忆，现在我每天都会翻词典，词典中的一些单词会勾起我年轻时的记忆，它们通常只是一两个句子的片段，但这就够了，我很高兴能在余生回味一遍自己的青春岁月。
+<!-- more -->
