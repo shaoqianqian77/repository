@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://lynntypo.netlify.app/</loc>
+        <loc>https://lynntags.comp/</loc>
     </url>
     <url>
-        <loc>https://lynntypo.netlify.app/hallo-worlk/</loc>
+        <loc>https://lynntags.comp/hallo-worlk/</loc>
         <lastmod>2022-12-24</lastmod>
     </url>
     <url>
-        <loc>https://lynntypo.netlify.app/page/1/</loc>
+        <loc>https://lynntags.comp/page/1/</loc>
     </url>
     <url>
-        <loc>https://lynntypo.netlify.app/tags/</loc>
+        <loc>https://lynntags.comp/tags/</loc>
     </url>
     <url>
-        <loc>https://lynntypo.netlify.app/tags/cao-gao/</loc>
+        <loc>https://lynntags.comp/tags/cao-gao/</loc>
     </url>
     <url>
-        <loc>https://lynntypo.netlify.app/tags/changelog/</loc>
+        <loc>https://lynntags.comp/tags/changelog/</loc>
     </url>
 </urlset>

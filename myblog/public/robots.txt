@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://lynntypo.netlify.app/sitemap.xml
+Sitemap: https://lynntags.comp/sitemap.xml
