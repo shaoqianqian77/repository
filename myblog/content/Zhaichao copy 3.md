@@ -1,5 +1,5 @@
 +++
-date = 2022-12-31
+date = 2022-5-31
 
 [taxonomies]
 tags = ["摘抄"]
