@@ -2,7 +2,7 @@
 title = "古代屠城模式和 UX Design（以扬州十日记为例）"
 date = 2023-01-04
 [taxonomies]
-tags = ["Snapshots"]
+tags = ["Snapshots","草稿"]
 +++ 
 <!-- more -->
 # 扬州十日记
