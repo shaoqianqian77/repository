@@ -1,6 +1,6 @@
 +++
 title = "古代屠城模式和 UX Design"
-date = 2023-01-04
+date = 2022-12-06
 [taxonomies]
 tags = ["Snapshots","草稿"]
 +++ 
