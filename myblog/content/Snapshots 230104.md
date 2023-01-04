@@ -1,5 +1,5 @@
 +++
-title = "古代屠城模式和 UX Design（以扬州十日记为例）"
+title = "古代屠城模式和 UX Design"
 date = 2023-01-04
 [taxonomies]
 tags = ["Snapshots","草稿"]
