@@ -3,7 +3,7 @@ title = "你好，世界"
 date = 2022-12-24
 
 [taxonomies]
-tags = ["Changelog","Workflows","Blog"]
+tags = ["Changelog","Workflows","长文章"]
 +++
 VS Code：网站内容撰写  
 Zola：网站生成（静态网站生成器）  
