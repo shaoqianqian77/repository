@@ -11,8 +11,8 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "Lynn"
-description = "Snapshots"
+title = "LYNN NOTES"
+description = ""
 generate_feed = true
 
 taxonomies = [
@@ -22,8 +22,8 @@ taxonomies = [
 [extra]
 anpu_date_format="%e %B %Y"
 anpu_menu_links = [
-    { url = "$BASE_URL/tags/", name = "Tags" },
-    { url = "$BASE_URL/tags/dream", name = "Dream" },
-    { url = "$BASE_URL/tags/memory", name = "Memory" },
-    { url = "$BASE_URL/tags/about", name = "About" },
+    { url = "$BASE_URL/tags/", name = "TAGS" },
+    { url = "$BASE_URL/tags/dream", name = "DREAM" },
+    { url = "$BASE_URL/tags/memory", name = "MEMORY" },
+    { url = "$BASE_URL/tags/about", name = "ABOUT" },
 ]
