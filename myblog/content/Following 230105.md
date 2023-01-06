@@ -10,4 +10,5 @@ tags = ["Following"]
 | -- | -- |
 | [Pin起来](https://pinchlime.com/) | 生产力工具 |
 | [Owen](https://www.owenyoung.com/) | 各种链接，短想法，摘抄 |
+| [视觉思考笔记](https://visualthinkingnote.wordpress.com/) | 方法论 |
 <!-- more -->
