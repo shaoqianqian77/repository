@@ -22,8 +22,8 @@ taxonomies = [
 [extra]
 anpu_date_format="%e %B %Y"
 anpu_menu_links = [
-    { url = "$BASE_URL/tags/following", name = "FOLLOW" },
     { url = "$BASE_URL/tags/", name = "TAGS" },
+    { url = "$BASE_URL/tags/following", name = "FOLLOW" },
     { url = "$BASE_URL/tags/about", name = "ABOUT" },
 
 ]
