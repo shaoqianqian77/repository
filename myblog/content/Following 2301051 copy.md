@@ -13,6 +13,6 @@ tags = ["Following"]
 | [博客啦](https://www.boke.la/) | ~ |
 | [RSS  Sources](https://rss-source.com/) | ~  |
 | [中文博客](https://zhblogs.ohyee.cc/) | ~ |
-| [1mb club](https://1mb.club/) | 网站速度 |
+| [1mb club](https://1mb.club/) | 性能最优 |
 | [blogroll](https://github.com/lynnzola/blogroll) | ~ |
 <!-- more -->
