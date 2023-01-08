@@ -15,4 +15,5 @@ tags = ["Following"]
 | [中文博客](https://zhblogs.ohyee.cc/) | ~ |
 | [1mb club](https://1mb.club/) | 性能最优 |
 | [blogroll](https://github.com/lynnzola/blogroll) | ~ |
+| [个站商店](https://storeweb.cn/) | ~ |
 <!-- more -->
